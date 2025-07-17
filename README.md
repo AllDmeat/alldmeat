@@ -32,9 +32,9 @@ I built **Slynk** to solve a small but real pain: transferring people from **Sla
 The app adds teammates to your contacts in one tap — no more copy-pasting.
 
 It transfers:
-• name, phone, email, birthday, photo, and organization  
-• fills in missing data for existing contacts  
-• works fast, looks clean, and just does the job
+- name, phone, email, birthday, photo, and organization  
+- fills in missing data for existing contacts  
+- works fast, looks clean, and just does the job
 
 [![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/ru/app/slynk/id1559349203)
 
